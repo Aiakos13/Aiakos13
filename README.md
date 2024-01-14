@@ -20,9 +20,9 @@ Born on 20/11/2003 and 29/8/1382.
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/Aiakos13/Aiakos13/blob/main/img/Bird%20Wing%20Left.png">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aiakos13&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Aiakos13" />
+    <img heigth="160" width="182" src="https://github.com/Aiakos13/Aiakos13/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
 
@@ -33,9 +33,9 @@ Born on 20/11/2003 and 29/8/1382.
  
  <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/Aiakos13/Aiakos13/blob/main/img/Bird%20Wing%20Left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aiakos13&theme=material-palenight&hide_border=false" alt="Aiakos13" width="55%" />
+    <img heigth="160" width="182" src="https://github.com/Aiakos13/Aiakos13/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
  
@@ -47,17 +47,14 @@ Born on 20/11/2003 and 29/8/1382.
   
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/Aiakos13/Aiakos13/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiakos13&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Aiakos13" />
+    <img heigth="160" width="182" src="https://github.com/Aiakos13/Aiakos13/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
  
   
   
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
--->
 
 
 <br />
