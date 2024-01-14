@@ -7,7 +7,7 @@
 Hi. I am a 2nd year computer engineering student.
 Born in Iran, Tabriz.
 Azad University student.
-Born on 20/11/2003 or 29/8/1382.
+Born on 20/11/2003 or 29/8/1382.<br>
 🔭 I’m currently working on ardino boot program.<br>🌱 I’m currently learning js.<br>👯 I’m looking to collaborate on software Company work.<br>🤔 I’m looking for help with web designs.<br>💬 Ask me about Code 😁.<br>📫 How to reach me: Sinahoora1313@gmail.com<br>⚡ Fun fact: I'm a novice codeer and live in Iran.
 
 
