@@ -68,9 +68,20 @@ Born on 20/11/2003 or 29/8/1382.<br>
 
 
 <br />
-## 👌 certificate
+# certificate
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+<br/>
+<div style="overflow: auto;">
+  <a href="www.linkedin.com/in/sina-hoorasfand-2bb168233">
+    <img alt="https://github.com/Aiakos13/Aiakos13/blob/main/img/image_2024-04-11_00-01-00.png" src="https://github.com/Aiakos13/Aiakos13/blob/main/img/image_2024-04-11_00-01-00.png" width="20%" />
+  </a>
+ <a href="www.linkedin.com/in/sina-hoorasfand-2bb168233">
+    <img alt="https://github.com/Aiakos13/Aiakos13/blob/main/img/image_2024-04-11_001843677.png" src="https://github.com/Aiakos13/Aiakos13/blob/main/img/image_2024-04-11_001843677.png" width="20%" />
+  </a>
+ <a href="www.linkedin.com/in/sina-hoorasfand-2bb168233">
+    <img alt="https://github.com/Aiakos13/Aiakos13/blob/main/img/image_2024-04-11_001739992.png" src="https://github.com/Aiakos13/Aiakos13/blob/main/img/image_2024-04-11_001739992.png" width="20%" />
+  </a>
+</div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br />
 
